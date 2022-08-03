@@ -1,5 +1,8 @@
 # Hotel
 
+Este proyecto esta aun en curso...
+"Se trata de un proyecto echo en angular para la administracion de un Hotel pequeño y mediano"
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
 ## Development server
